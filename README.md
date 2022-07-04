@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently studing at Federal University of Rio Grande do Norte, in the Bachelor of Information Technology.
-- 🌱 I’m currently learning React.JS and Typescript
+- 🌱 I’m currently learning React and Typescript
 - 👯 I’m seeking to collaborate on open source projects and to be more active in communities!!!
 - 💬 Ask me about entrepeneurship and innovation
 - 📫 How to talk to me: italo1994 --> ( Discord )
