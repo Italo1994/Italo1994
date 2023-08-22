@@ -1,5 +1,5 @@
 ### Hi, I'm Italo 👋
-### Information Technology student and enthusiastic for Web Technologies
+### Bachelor of Information Technology and enthusiastic for Web Technologies
 
 
 - 🔭 I’m currently studing at Federal University of Rio Grande do Norte, in the Bachelor of Information Technology.
